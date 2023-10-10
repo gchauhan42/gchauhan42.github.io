@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sayantan Bhadra"
+title                    : "Garv Chauhan"
 title_separator          : "-"
-name                     : &name "Sayantan Bhadra"
+name                     : &name "Garv Chauhan"
 description              : &description "personal description"
-url                      : https://sbhadra2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gchauhan42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sbhadra2020/sbhadra2020.github.io"
+repository               : "gchauhan42/gchauhan42.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sayantan Bhadra"
+  name             : "Garv Chauhan"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D candidate in Computer Science and Engineering, Washington University in St. Louis"
-  location         : "St. Louis, Missouri, USA"
+  bio              : "Postdoctoral Associate at Center for Neutrino Physics, Virginia Tech"
+  location         : "Blacksburg, Virginia, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=vZQlZNwAAAAJ&hl=en"
-  email            : "sayantanbhadra@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=b48uvRQAAAAJ&hl=en"
+  email            : "gchauhan@vt.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Garv-Chauhan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sbhadra2020"
+ # github           : "sbhadra2020"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sayantan-bhadra-86402bb1"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "garv-chauhan-52413289"
+  orcid            : "http://orcid.org/0000-0002-8129-8034"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SayantanBhadra4"
+  twitter          : "garvity42"
   vine             :
   weibo            :
   xing             :
