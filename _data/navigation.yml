@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+  #  url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Resume"
-    url: https://drive.google.com/file/d/1IM7q-ekw42y32iQldk9Cjn2E3y5o8XBI/view?usp=sharing
+  #- title: "Resume"
+  #  url: https://drive.google.com/file/d/1IM7q-ekw42y32iQldk9Cjn2E3y5o8XBI/view?usp=sharing
     
   # - title: "Guide"
   #   url: /markdown/
