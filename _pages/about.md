@@ -18,7 +18,7 @@ My current research primarily focuses on investigating beyond the standard model
 * How to detect the electromagnetic properties of neutrinos ? 
 * How can we detect the Cosmic Neutrino Background ? Can we devise new techniques or improve older techniques for their direct detection ? Indirect detection through their effect on the astrophysical probes?
 
-Some other interesting open problems that fascinates me :
+Some other interesting open problems that fascinate me :
 * What is the resolution for the short-baseline neutrino anomolies ? 
 * The known values of cosmological constant (CC) and Higgs mass lead to two most important problems in physics. Are these problems connected ? Do these point to missing fundamental ingredients in QFT ?
 * What is the microphysical nature of DM? Is it a fermion or a boson? Does physics at short-scales (like numerous galactic scaling laws) offers more hints on DM microphysics?
