@@ -13,8 +13,8 @@ For complete list of publications : [Inspire-HEP](https://inspirehep.net/authors
 
 Research
 ======
-My current research primarily focuses on investigating beyond the standard model (BSM) neutrino physics especially using astrophysical probes, like hot and dense environment of a neutron star. Top few interesting questions that keep me occupied : 
-* How do neutrino get their masses i.e. what is the elusive neutrino mass mechanism ? Does it involve right-handed neutrinos ?
+My current research primarily focuses on investigating beyond the standard model (BSM) neutrino physics especially using astrophysical probes, like in hot and dense environment of a neutron star. Top few interesting questions that keep me occupied : 
+* How do neutrinos get their masses i.e. what is the elusive neutrino mass mechanism ? Does it involve right-handed neutrinos ?
 * How to detect the electromagnetic properties of neutrinos ? 
 * How can we detect the Cosmic Neutrino Background ? Can we devise new techniques or improve older techniques for their direct detection ? Indirect detection through their effect on the astrophysical probes?
 
