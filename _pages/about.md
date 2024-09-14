@@ -21,7 +21,7 @@ My current research primarily focuses on investigating beyond the standard model
 Some other interesting open problems that fascinate me :
 * What is the resolution for the short-baseline neutrino anomolies ? 
 * The known values of cosmological constant (CC) and Higgs mass lead to two most important problems in physics. Are these problems connected ? Do these point to missing fundamental ingredients in QFT ?
-* What is the microphysical nature of DM? Is it a fermion or a boson? Does physics at short-scales (like numerous galactic scaling laws) offers more hints on DM microphysics?
+* What is the microphysical nature of DM? Is it a fermion or a boson? Does physics at short-scales (like numerous galactic scaling laws) offer more hints on DM microphysics?
 
 News
 ======
