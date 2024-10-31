@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical particle physicist, currently working as a postdoctoral associate at Center for Neutrino Physics at Virginia Tech since November 2022. I completed my Ph.D. in Physics from Washington University in St. Louis in December 2021 under the supervision of [Prof. Bhupal Dev](https://sites.wustl.edu/bdev/). I have also been a postdoctoral fellow at UCLouvain in Belgium, from December 2021 to October 2022. Before joining my Ph.D program, I completed my B.E. degree in Electronics and Communication Engineering from University of Delhi in 2016. 
+I am a theoretical particle physicist, currently working as a postdoctoral research scholar at Arizona State University, since October 2024. Previously, I have been a postdoctoral associate at Center for Neutrino Physics at Virginia Tech, November 2022 to October 2024.I have also been a postdoctoral fellow at UCLouvain in Belgium, from December 2021 to October 2022. 
+
+I completed my Ph.D. in Physics from Washington University in St. Louis in December 2021 under the supervision of [Prof. Bhupal Dev](https://sites.wustl.edu/bdev/). Before joining the Ph.D program, I completed my B.E. degree in Electronics and Communication Engineering from University of Delhi in 2016. 
 
 For complete list of publications : [Inspire-HEP](https://inspirehep.net/authors/1724253?ui-citation-summary=true)
 
@@ -25,8 +27,8 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
-* Aug 2024: New paper on *Neutron Stars as a probe of Cosmic Neutrino Background* [(arxiv: 2408.01489 )](https://arxiv.org/abs/2408.01489)
-	  : Presented at TeVPA [(Indico)](https://indico.uchicago.edu/event/427/overview) in Chicago on *Probing Sterile Neutrinos from Supernova using Gamma ray Telescopes* [(slides)](https://indico.uchicago.edu/event/427/contributions/1508/attachments/387/595/Chauhan_TalkTeVPA.pdf)
+* Aug 2024: New paper on *Neutron Stars as a probe of Cosmic Neutrino Background* [(arxiv: 2408.01489 )](https://arxiv.org/abs/2408.01489)  
+	  : Presented at TeVPA [(Indico)](https://indico.uchicago.edu/event/427/overview) in Chicago on *Probing Sterile Neutrinos from Supernova using Gamma ray Telescopes* [(slides)](https://indico.uchicago.edu/event/427/contributions/1508/attachments/387/595/Chauhan_TalkTeVPA.pdf)  
 	  : Long-term visiting researcher at Fermilab through URA Visiting Scholars Award 
 * Jul 2024: Presented at CETUP* [(Indico)](https://indico.sanfordlab.org/event/69/) in South Dakota on *Neutron Stars as a probe of Cosmic Neutrino Background* [(slides)](https://indico.sanfordlab.org/event/69/contributions/1468/attachments/889/2202/CosmicNeutrinoBackground_Chauhan.pdf)
 * May 2024: Presented at DPF-Pheno [(Indico)](https://indico.cern.ch/event/1358339/) in Pittsburgh on *Probing Neutrino Dipole Portal with Supernovae* [(slides)](https://indico.cern.ch/event/1358339/contributions/5899352/attachments/2857621/4998721/Chauhan_TalkPheno.pdf)
