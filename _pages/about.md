@@ -27,7 +27,7 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
-* Jul 2024: Presented at MIT for special CTP seminar on *Neutron Stars as a probe of Cosmic Neutrino Background*  
+* Nov 2024: Presented at MIT for special CTP seminar on *Neutron Stars as a probe of Cosmic Neutrino Background*  
 	  : Presented at Harvard University for LPPC Seminar on *Probing Neutrino Dipole Portal with Supernovae*  
 	  : Presented at Ohio State University for CCAPP Astroparticle Lunch on *Neutron Stars as a probe of Cosmic Neutrino Background*  
 * Oct 2024: Started new postdoctoral position at Arizona State University with Prof. Cecilia Lunardini
