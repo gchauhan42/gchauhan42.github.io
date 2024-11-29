@@ -27,14 +27,18 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
+* Jul 2024: Presented at MIT for special CTP seminar on *Neutron Stars as a probe of Cosmic Neutrino Background*  
+	  : Presented at Harvard University for LPPC Seminar on *Probing Neutrino Dipole Portal with Supernovae*  
+	  : Presented at Ohio State University for CCAPP Astroparticle Lunch on *Neutron Stars as a probe of Cosmic Neutrino Background*  
+* Oct 2024: Started new postdoctoral position at Arizona State University with Prof. Cecilia Lunardini
 * Aug 2024: New paper on *Neutron Stars as a probe of Cosmic Neutrino Background* [(arxiv: 2408.01489 )](https://arxiv.org/abs/2408.01489)  
 	  : Presented at TeVPA [(Indico)](https://indico.uchicago.edu/event/427/overview) in Chicago on *Probing Sterile Neutrinos from Supernova using Gamma ray Telescopes* [(slides)](https://indico.uchicago.edu/event/427/contributions/1508/attachments/387/595/Chauhan_TalkTeVPA.pdf)  
 	  : Long-term visiting researcher at Fermilab through URA Visiting Scholars Award 
 * Jul 2024: Presented at CETUP* [(Indico)](https://indico.sanfordlab.org/event/69/) in South Dakota on *Neutron Stars as a probe of Cosmic Neutrino Background* [(slides)](https://indico.sanfordlab.org/event/69/contributions/1468/attachments/889/2202/CosmicNeutrinoBackground_Chauhan.pdf)
 * May 2024: Presented at DPF-Pheno [(Indico)](https://indico.cern.ch/event/1358339/) in Pittsburgh on *Probing Neutrino Dipole Portal with Supernovae* [(slides)](https://indico.cern.ch/event/1358339/contributions/5899352/attachments/2857621/4998721/Chauhan_TalkPheno.pdf)
-* Apr 2024: Submitted proposal received URA Visiting Scholars Award from Universities Research Association
-* Mar 2024: New paper on *Impact of the cosmic neutrino background on long-range force searches* [(arxiv: 2403.09783 )](https://arxiv.org/abs/2403.09783)
-* Mar 2024: Invited HEP Seminar at Northwestern University in Chicago and talk at Kavli Institute, on *Probing Sterile Neutrinos in Supernovae*
+* Apr 2024: Submitted proposal received URA Visiting Scholars Award from Universities Research Association [(link)](https://ura-hq.org/high-energy-physics-user-community/ura-visiting-scholars-program/vsp-awardees/)
+* Mar 2024: New paper on *Impact of the cosmic neutrino background on long-range force searches* [(arxiv: 2403.09783 )](https://arxiv.org/abs/2403.09783)  
+          : Invited HEP Seminar at Northwestern University in Chicago and talk at Kavli Institute, on *Probing Sterile Neutrinos in Supernovae*
 * Feb 2024: New paper on *Probing the Sterile Neutrino Dipole Portal with SN1987A and Low-Energy Supernovae* [(arxiv: 2402.01624 )](https://arxiv.org/abs/2402.01624)
 
 
