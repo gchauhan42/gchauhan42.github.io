@@ -29,9 +29,10 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
-* **May 2026**: My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/tree/bugfix/neu_plasmon_cooling/neu/private).  
-	  : Co-organized a Workshop on MultiMessenger Astronomy at ASU [(link)](https://asuworkshop.wixsite.com/multimessengerastro), along with Prof. Cecilia Lunardini.   
-	  : Presented at ASU Cosmology Friday seminar on  *Gamma-Ray Echo as probe of Neutrino Emission Anisotropy* 
+* **May 2026**:  
+  1. My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/tree/bugfix/neu_plasmon_cooling/neu/private).  
+2. Co-organized a Workshop on MultiMessenger Astronomy at ASU [(link)](https://asuworkshop.wixsite.com/multimessengerastro), along with Prof. Cecilia Lunardini.   
+	  3. Presented at ASU Cosmology Friday seminar on  *Gamma-Ray Echo as probe of Neutrino Emission Anisotropy* 
 * **Apr 2026**: Taught a graduate lecture on Advanced Quantum Physics at ASU. 
 * **Dec 2025**: Presented Talk in 33rd Texas Symposium on Relativistic Astrophysics (ASU) on *511 keV Gamma-Ray Echo from Particle Decays in Supernovae*  
 * **Nov 2025**: New paper on *511 keV Gamma Ray Echo from Particle Decays in Supernovae* [(arxiv: 2511.14857)](https://arxiv.org/abs/2511.14857)
