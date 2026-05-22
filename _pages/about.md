@@ -29,7 +29,7 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
-* May 2026: My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/tree/bugfix/neu_plasmon_cooling/neu/private).  
+* **May 2026**: My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/tree/bugfix/neu_plasmon_cooling/neu/private).  
 	  : Co-organized a Workshop on MultiMessenger Astronomy at ASU [(link)](https://asuworkshop.wixsite.com/multimessengerastro), along with Prof. Cecilia Lunardini.   
 	  : Presented at ASU Cosmology Friday seminar on  *Gamma-Ray Echo as probe of Neutrino Emission Anisotropy* 
 * Apr 2026: Taught a graduate lecture on Advanced Quantum Physics at ASU. 
