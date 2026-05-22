@@ -9,7 +9,7 @@ redirect_from:
 
 I am a theoretical particle physicist, currently working as a postdoctoral research scholar at Arizona State University, since October 2024. 
 
-Previously, I have been a postdoctoral associate at Center for Neutrino Physics at Virginia Tech, November 2022 to October 2024. I have also been a postdoctoral fellow at UCLouvain in Belgium, from December 2021 to October 2022. 
+Previously, I worked as a postdoctoral associate at Center for Neutrino Physics at Virginia Tech from November 2022 to October 2024. I was also a postdoctoral fellow at UCLouvain in Belgium from December 2021 to October 2022. 
 
 I completed my Ph.D. in Physics from Washington University in St. Louis in December 2021 under the supervision of [Prof. Bhupal Dev](https://sites.wustl.edu/bdev/). Before joining the Ph.D program, I completed my B.E. degree in Electronics and Communication Engineering from University of Delhi in 2016. 
 
