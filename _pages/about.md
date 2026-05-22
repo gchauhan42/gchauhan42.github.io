@@ -39,9 +39,9 @@ News
 	  : Invited Talk at University of California Los Angeles (UCLA) for TEPAPP seminar on *Gamma-Ray Echo from Particle Decays in Supernovae*  
 	  : Paper on *The dark matter diffused supernova neutrino background* accepted and published in JCAP [(link)](https://iopscience.iop.org/article/10.1088/1475-7516/2025/10/020)
 * **Sep 2025**: Presented Talk at Particle Cosmology in the Southwest 2025 (University of New Mexico) on *Gamma-Ray Echo from Radiative Particle Decays in Supernovae* 
-* **Aug 2025**: Presented Theory Chalk Talk at Fermilab on *Gamma-Ray Echo from Axion Decays in Supernovae*
-	      : Summer Visiting Researcher at Fermi National Accelerator Laboratory (Fermilab)
-	      : Invited Talk for Majorana-Raychaudhuri Seminar Series (Virtual) on *Supernova Gamma-Ray Constraints from Radiative Particle Decays*  
+* **Aug 2025**: Presented Theory Chalk Talk at Fermilab on *Gamma-Ray Echo from Axion Decays in Supernovae*  
+	      : Summer Visiting Researcher at Fermi National Accelerator Laboratory (Fermilab)  
+	      : Invited Talk for Majorana-Raychaudhuri Seminar Series (Virtual) on *Supernova Gamma-Ray Constraints from Radiative Particle Decays*   
 
 
 
