@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Garv Chauhan"
+title                    : "Dr. Garv Chauhan"
 title_separator          : "-"
 name                     : &name "Garv Chauhan"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
- # github           : "sbhadra2020"
+  github           : "gchauhan42"
   google_plus      :
   keybase          :
   instagram        :
