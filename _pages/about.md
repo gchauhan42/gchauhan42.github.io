@@ -7,6 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+<div style="float: right; width: 280px; margin: 0 0 20px 30px;">
+
+  <img src="/images/neutrinos.png"
+       style="width: 280px; height: 180px; object-fit: cover; margin-bottom: 15px;">
+
+  <img src="/images/neutronstar.jpg"
+       style="width: 280px; height: 180px; object-fit: cover; margin-bottom: 15px;">
+
+  <img src="/images/GREanisotropy.png"
+       style="width: 280px; height: 180px; object-fit: cover; margin-bottom: 15px;">
+
+</div>
+
 I am a theoretical particle physicist, currently working as a postdoctoral research scholar at Arizona State University, since October 2024. 
 
 Previously, I worked as a postdoctoral associate at Center for Neutrino Physics at Virginia Tech from November 2022 to October 2024. I was also a postdoctoral fellow at UCLouvain in Belgium from December 2021 to October 2022. 
