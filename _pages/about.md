@@ -29,8 +29,17 @@ Some other interesting open problems that fascinate me :
 
 News
 ======
+* **Oct 2026**: 
+	- Invited Talk at Texas A&M University, Mitchell Institute for HEPEC Seminar Series on *Supernova Gamma-Ray Echoes: From Neutrino Emission to New Physics*  
+	- Invited Talk at University of Wisconsin–Madison for Theory Seminar (High Energy/Cosmology) on *Prospects for Supernova Magnetometry with Neutrinos*  
+* **Sep 2026**: 
+	- New paper on *Gamma-Ray Echo as a Probe of Supernova Neutrino Emission Anisotropy and Long-Baseline Effects* [(arxiv: 2609.22806)](https://arxiv.org/abs/2609.22806)
+	- New paper on *Supernova Gamma-Ray Echo as an Astrophysical Near Detector for Galactic Neutrino Propagation* [(arxiv: 2609.26908)](https://arxiv.org/abs/2609.26908)
+* **Jul 2026**: Presented a Talk at CETUP* 2026 Workshop, The Institute for Underground Science at SURF on *Gamma-Ray Echo as probe of SN Neutrino Emission Anisotropy and Long-
+Baseline Effects*  
+* **Jun 2026**: Paper on *Resolving the gallium anomaly using an opaque liquid scintillator detector* accepted and published in PRD [(link)](https://journals.aps.org/prd/abstract/10.1103/hlrw-rby4)
 * **May 2026**:  
-	- My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/tree/bugfix/neu_plasmon_cooling/neu/private).  
+	- My bug fixes for MESA neutrino energy loss rates were successfully reviewed and approved by the MESA developers, and are now available as a dedicated branch of the main code repository [(link)](https://github.com/MESAHub/mesa/pull/998).  
 	- Co-organized a Workshop on MultiMessenger Astronomy at ASU [(link)](https://asuworkshop.wixsite.com/multimessengerastro), along with Prof. Cecilia Lunardini.  
 	- Presented at ASU Cosmology Friday seminar on  *Gamma-Ray Echo as probe of Neutrino Emission Anisotropy* 
 * **Apr 2026**: Taught a graduate lecture on Advanced Quantum Physics at ASU. 
@@ -40,13 +49,6 @@ News
 	- Invited Talk at SLAC National Accelerator Laboratory for EPP seminar on *Gamma-Ray Echo from Particle Decays in Supernovae*  
 	- Invited Talk at University of California Los Angeles (UCLA) for TEPAPP seminar on *Gamma-Ray Echo from Particle Decays in Supernovae*  
 	- Paper on *The dark matter diffused supernova neutrino background* accepted and published in JCAP [(link)](https://iopscience.iop.org/article/10.1088/1475-7516/2025/10/020)
-* **Sep 2025**: Presented Talk at Particle Cosmology in the Southwest 2025 (University of New Mexico) on *Gamma-Ray Echo from Radiative Particle Decays in Supernovae* 
-* **Aug 2025**:  
-	- Presented Theory Chalk Talk at Fermilab on *Gamma-Ray Echo from Axion Decays in Supernovae*  
-	- Summer Visiting Researcher at Fermi National Accelerator Laboratory (Fermilab)  
-	- Invited Talk for Majorana-Raychaudhuri Seminar Series (Virtual) on *Supernova Gamma-Ray Constraints from Radiative Particle Decays*   
-
-
 
 
 
