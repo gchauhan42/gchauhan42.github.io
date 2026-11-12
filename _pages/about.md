@@ -10,13 +10,13 @@ redirect_from:
 <div style="float: right; width: 280px; margin: 0 -160px 20px 30px;">
 
   <img src="/images/neutrinos.png"
-       style="width: auto; height: 180px; margin-bottom: 15px;">
+       style="width: 320px; height: 180px; margin-bottom: 15px;">
 
   <img src="/images/neutronstar.jpg"
-       style="width: 280px; height: 180px; object-fit: cover; margin-bottom: 15px;">
+       style="width: 320px; height: 180px; object-fit: cover; margin-bottom: 15px;">
 
   <img src="/images/GREanisotropy.png"
-       style="width: auto; height: 180px; margin-bottom: 15px;">
+       style="width: 320px; height: 180px; margin-bottom: 15px;">
 
 </div>
 
