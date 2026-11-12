@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="float: right; width: 320px; margin: 0 -160px 20px 30px;">
+<div style="float: right; width: 320px; margin: 0 -220px 20px 30px;">
 
   <img src="/images/neutrinos.png"
        style="width: 320px; height: 180px; margin-bottom: 15px;">
